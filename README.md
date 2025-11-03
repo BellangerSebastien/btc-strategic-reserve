@@ -259,7 +259,7 @@ This project is provided for educational and research purposes.
 
 ## Author
 
-Developed for institutional Bitcoin treasury allocation analysis.
+Sébastien Bellanger
 
 ---
 
